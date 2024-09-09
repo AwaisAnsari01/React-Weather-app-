@@ -1,12 +1,18 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 body{
-  background-color: rgb(213, 212, 212);
+ 
 }
 
 .display{
-  background-color: black;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 800px;
+  padding: 30px;
+  border: 2px solid black;
   box-shadow: -1px -1px 10px 1px rebeccapurple;
+  justify-content: center;
 }
